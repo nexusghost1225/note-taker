@@ -1,5 +1,5 @@
 .header {
-width: 1800px;
+width: 1860px;
 height: 100px;
 background-color: limegreen;
 }
@@ -10,4 +10,9 @@ background-color: limegreen;
     margin-left: 1170px;
     width: 500px;
     height: 25px;
+}
+.button {
+    position: absolute;
+    margin-left: 1690px;
+    margin-top: 40px;
 }

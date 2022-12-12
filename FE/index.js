@@ -1,0 +1,2 @@
+object.addEventListener("click", note);
+
