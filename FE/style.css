@@ -4,6 +4,15 @@ height: 100px;
 background-color: limegreen;
 }
 
+.title {
+    font-size: large;
+color: black;
+position: absolute;
+margin-bottom: 100px;
+margin-left: 100px;
+height: 200px;
+}
+
 .input {
     position: absolute;
     margin-top: 35px;
@@ -15,4 +24,10 @@ background-color: limegreen;
     position: absolute;
     margin-left: 1690px;
     margin-top: 40px;
+}
+
+.notes {
+    border-style: solid;
+    min-height: 50px;
+    min-width: 10px;
 }
